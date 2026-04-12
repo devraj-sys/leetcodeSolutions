@@ -1,4 +1,4 @@
-// resubmitting for github
+// resubmitting for github - pure recurssion solution
 class Solution {
 public:
     void solve(vector<int> num, vector<int> op, vector<vector<int>> &ans) {
