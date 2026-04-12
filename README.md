@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0078-subsets) |
 ## Dynamic Programming
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
