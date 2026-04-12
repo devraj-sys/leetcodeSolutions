@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
