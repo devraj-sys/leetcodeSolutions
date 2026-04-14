@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
