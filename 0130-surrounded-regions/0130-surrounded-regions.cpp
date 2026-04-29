@@ -1,3 +1,6 @@
+//note : to do it , we think otherwise, rather than checking for those in side the square, we check for those on the edge and give them a temporary varibale, 
+// and then change the rest of all from o->X
+
 class Solution {
 public:
     void dfs(vector<vector<char>>& board , int r , int c){
