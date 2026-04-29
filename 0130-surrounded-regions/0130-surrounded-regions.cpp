@@ -19,7 +19,7 @@ public:
         int m = board.size();
         int n = board[0].size();
 
-        // if(m == 0 || n == 0 ) return;
+        if(m == 0 || n == 0 ) return;
 
         for(int i = 0 ; i < m; i++){
             if(board[i][0] == 'O')dfs(board , i , 0);
