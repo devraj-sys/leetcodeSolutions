@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0997-find-the-town-judge) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0997-find-the-town-judge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0997-find-the-town-judge) |
 ## Tree
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0997-find-the-town-judge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/devraj-sys/leetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
