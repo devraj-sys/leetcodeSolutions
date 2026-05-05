@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1462-course-schedule-iv](https://github.com/devraj-sys/leetcodeSolutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/devraj-sys/leetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1462-course-schedule-iv](https://github.com/devraj-sys/leetcodeSolutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/devraj-sys/leetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0997-find-the-town-judge) |
+| [1462-course-schedule-iv](https://github.com/devraj-sys/leetcodeSolutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/devraj-sys/leetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/devraj-sys/leetcodeSolutions/tree/master/1462-course-schedule-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
