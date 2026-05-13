@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0721-accounts-merge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0953-verifying-an-alien-dictionary) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0721-accounts-merge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0997-find-the-town-judge) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1462-course-schedule-iv](https://github.com/devraj-sys/leetcodeSolutions/tree/master/1462-course-schedule-iv) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0752-open-the-lock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -171,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/devraj-sys/leetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -207,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
