@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0994-rotting-oranges) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
