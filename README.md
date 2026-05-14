@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
@@ -217,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0721-accounts-merge) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/devraj-sys/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
